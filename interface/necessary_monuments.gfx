@@ -7,4 +7,8 @@ spriteTypes = {
 		name = "GFX_great_project_utroba_cave"	
 		texturefile = "gfx//interface//great_projects//great_project_utroba_cave.dds"
 	}
+	spriteType = {
+		name = "GFX_great_project_dublin_spire"	
+		texturefile = "gfx//interface//great_projects//great_project_dublin_spire.dds"
+	}
 }
