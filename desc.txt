@@ -1,0 +1,10 @@
+Necessary Monuments: an addon mod for Beyond Typus
+
+Adds several new monuments necessary for proper gameplay.
+For optimal gameplay, avoid spoilers for which monuments are included.
+If you simply must know: here they are in the order they were added;
+[spoiler] The monument of Christ the King in Poland [/spoiler]
+[spoiler] The Utroba womb cave in Bulgaria [/spoiler]
+[spoiler] The Spire of Dublin in Ireland [/spoiler]
+
+[url=https://github.com/Jackkade/Necessary-Monuments-BT] Github [/url]
