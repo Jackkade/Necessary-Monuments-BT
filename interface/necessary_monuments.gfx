@@ -4,7 +4,7 @@ spriteTypes = {
 		texturefile = "gfx//interface//great_projects//great_project_christ_the_king.dds"
 	}
 	spriteType = {
-		name = "GFX_great_project_utoba_cave"	
-		texturefile = "gfx//interface//great_projects//great_project_utoba_cave.dds"
+		name = "GFX_great_project_utroba_cave"	
+		texturefile = "gfx//interface//great_projects//great_project_utroba_cave.dds"
 	}
 }
