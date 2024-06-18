@@ -12,3 +12,4 @@ tags={
 picture="thumbnail.png"
 name="-BT Addon: Necessary Monuments"
 supported_version="v1.37.1.0"
+remote_file_id="3270516990"
