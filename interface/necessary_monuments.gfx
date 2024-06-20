@@ -11,4 +11,12 @@ spriteTypes = {
 		name = "GFX_great_project_dublin_spire"	
 		texturefile = "gfx//interface//great_projects//great_project_dublin_spire.dds"
 	}
+	spriteType = {
+		name = "GFX_great_project_billund_house"	
+		texturefile = "gfx//interface//great_projects//great_project_billund_house.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_blue_mustang_denver"	
+		texturefile = "gfx//interface//great_projects//great_project_blue_mustang_denver.dds"
+	}
 }
