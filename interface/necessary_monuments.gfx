@@ -19,4 +19,8 @@ spriteTypes = {
 		name = "GFX_great_project_blue_mustang_denver"	
 		texturefile = "gfx//interface//great_projects//great_project_blue_mustang_denver.dds"
 	}
+	spriteType = {
+		name = "GFX_great_project_wuhan_estrogen_factory"	
+		texturefile = "gfx//interface//great_projects//great_project_wuhan_estrogen_factory.dds"
+	}
 }
