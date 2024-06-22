@@ -23,4 +23,8 @@ spriteTypes = {
 		name = "GFX_great_project_wuhan_estrogen_factory"	
 		texturefile = "gfx//interface//great_projects//great_project_wuhan_estrogen_factory.dds"
 	}
+	spriteType = {
+		name = "GFX_great_project_channel_tunnel"	
+		texturefile = "gfx//interface//great_projects//great_project_channel_tunnel.dds"
+	}
 }

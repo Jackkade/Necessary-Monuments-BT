@@ -1,0 +1,34 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new resources, make sure they are uniquely named.
+# Please add price definitions to prices.txt as well.
+
+#New goods in NM
+#bt_trade_estrogen
+#bt_trade_gunpowder
+
+#dummy incase this gets added 
+bt_trade_gunpowder = {
+	color = { 0.05 0.1 0.15 }
+	modifier = {
+		manpower_recovery_speed = 0.33
+	}
+	province = {
+		local_development_cost = -0.1
+	}
+	chance = {
+		factor = 0
+	}
+}
+
+bt_trade_estrogen = {
+	color = { 1.0 0.83 0.95 }
+	modifier = {
+		manpower_recovery_speed = 0.33
+	}
+	province = {
+		local_development_cost = -0.1
+	}
+	chance = {
+		factor = 0
+	}
+}

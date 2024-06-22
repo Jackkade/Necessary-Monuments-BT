@@ -1003,9 +1003,9 @@ wuhan_estrogen_factory = {
 		on_upgraded = {
 			if = {
 				limit = {	
-					NOT = { trade_goods = spices }
+					NOT = { trade_goods = bt_trade_estrogen }
 				}
-				change_trade_goods = spices
+				change_trade_goods = bt_trade_estrogen
 			}
 			else = { add_base_production = 2 }
 		}
@@ -1039,9 +1039,9 @@ wuhan_estrogen_factory = {
 		on_upgraded = {
 			if = {
 				limit = {	
-					NOT = { trade_goods = spices }
+					NOT = { trade_goods = bt_trade_estrogen }
 				}
-				change_trade_goods = spices
+				change_trade_goods = bt_trade_estrogen
 			}
 			else = { add_base_production = 2 }
 		}
@@ -1076,9 +1076,9 @@ wuhan_estrogen_factory = {
 		on_upgraded = {
 			if = {
 				limit = {	
-					NOT = { trade_goods = spices }
+					NOT = { trade_goods = bt_trade_estrogen }
 				}
-				change_trade_goods = spices
+				change_trade_goods = bt_trade_estrogen
 			}
 			else = { add_base_production = 2 }
 		}
